@@ -41,6 +41,13 @@
     border: 1px solid darkcyan;
     background-color: teal;
 }
+/* card media css */
+/* @media screen and (max-width: 992px){
+    .col-md-4{
+    margin: 0.2rem 0;
+    display: flex;
+}
+} */
 .main h1{
     font-weight: bolder;
     color: blue;
